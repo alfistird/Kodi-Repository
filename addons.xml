@@ -19,7 +19,7 @@
 
 <addon
   id="skin.carpc-hawktouch"
-  version="1.0.0"
+  version="1.0.1"
   name="CarPC-Hawktouch"
   provider-name="Hawkeyexp">
   <requires>
