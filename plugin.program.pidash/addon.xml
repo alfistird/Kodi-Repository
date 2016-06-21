@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.pidash" name="RPi-Camera Dashcam" version="1.0.0" provider-name="Hawkeyexp">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">RPI-Camera Dashcam plugin</summary>
+        <description lang="en">RPI-Camera Dashcam plugin for the Raspberry Pi Camera Module</description>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>www.raspicarprojekte.de</website>
+        <email>hawkeyexp@gmail.com</email>
+    </extension>
+</addon>
