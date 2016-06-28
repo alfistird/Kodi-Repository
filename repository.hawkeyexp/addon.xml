@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.hawkeyexp" name="Hawkeyexp's Add-ons" version="1.0.1" provider-name="hawkeyexp">
+<addon id="repository.hawkeyexp" name="Hawkeyexp's Add-ons" version="1.0.1" provider-name="Marc Hillesheim">
     <extension point="xbmc.addon.repository" name="Hawkeyexp's Add-ons">
 		<info compressed="true">https://raw.githubusercontent.com/hawkeyexp/Kodi-Repository/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/hawkeyexp/Kodi-Repository/master/addons.xml.md5</checksum>

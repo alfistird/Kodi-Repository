@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.radioFM" name="FM Radio Nexgen" version="2.0.5" provider-name="Hawkeyexp">
+<addon id="plugin.program.radioFM" name="FM Radio Nexgen" version="2.0.5" provider-name="Marc Hillesheim">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
@@ -11,7 +11,7 @@
         <summary lang="en">FM Radio plugin - Mod from Hawkeyexp based on work of Andrei Istodorescu</summary>
         <description lang="en">FM Radio plugin used to control SI4703 module</description>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <forum>www.raspicarprojekte.de</forum>
+        <forum>www.raspicarprojekte.de/showthread.php?tid=860</forum>
         <email>hawkeyexp@gmail.com</email>
     </extension>
 </addon>
