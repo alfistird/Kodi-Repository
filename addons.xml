@@ -45,6 +45,27 @@
   </extension>
 </addon>
 
+<addon id="service.pidash.server"
+       name="PiDash-Server"
+      version="1.0.2"
+      provider-name="Hawkeyexp">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.service" library="service.py" start="start"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">PiDash-Server</summary>
+        <description lang="en">PiDash-Server</description>
+        <disclaimer lang="en"></disclaimer>
+        <license></license>
+        <platform>all</platform>
+        <website></website>
+        <source></source>
+        <forum></forum>
+        <email></email>
+    </extension>
+</addon>
+
 <addon id="repository.hawkeyexp" name="Hawkeyexp's Add-ons" version="1.0.1" provider-name="hawkeyexp">
     <extension point="xbmc.addon.repository" name="Hawkeyexp's Add-ons">
 		<info compressed="true">https://raw.githubusercontent.com/hawkeyexp/Kodi-Repository/master/addons.xml</info>
@@ -59,7 +80,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.program.pidash" name="RPi-Camera Dashcam" version="1.0.1" provider-name="Hawkeyexp">
+<addon id="plugin.program.pidash" name="RPi-Camera Dashcam" version="1.0.2" provider-name="Hawkeyexp">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
