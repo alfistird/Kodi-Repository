@@ -17,7 +17,7 @@
     </extension>
 </addon>
 
-<addon id="skin.carpc-hawktouch" version="1.0.2" name="CarPC-Hawktouch" provider-name="Marc Hillesheim">
+<addon id="skin.carpc-hawktouch" version="1.0.3" name="CarPC-Hawktouch" provider-name="Marc Hillesheim">
   <requires>
     <import addon="xbmc.gui" version="5.10.0"/>
   </requires>
@@ -32,7 +32,7 @@
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     <forum></forum>
     <website></website>
-    <email></email>
+    <email>hawkeyexp@gmail.com</email>
     <source></source>
   </extension>
 </addon>
