@@ -7,7 +7,9 @@
     <extension point="xbmc.python.pluginsource" library="addon.py">
 	<provides>executable</provides>
     </extension>
-    <extension point="xbmc.service" library="service.py" start="start"/>
+    <extension point="xbmc.service" library="service.py" start="start">
+	<provides>executable</provides>
+    </extension>
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <summary lang="en">FM Radio plugin - Mod from Hawkeyexp based on work of Andrei Istodorescu</summary>
