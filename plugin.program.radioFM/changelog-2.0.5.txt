@@ -1,0 +1,18 @@
+
+2.0.5 (2016-06-18)
+- Station logos now possible. Changed layout to release it
+
+2.0.4 (2016-06-11)
+- Bugixes with station cleanup / update logo / code cleanup
+
+2.0.3 (2016-06-10)
+- Add settings page / stations now stored in settings.xml / station names are editable via settings page / custom background selectable
+
+2.0.2 (2016-06-08)
+- Add mute option for volume
+
+2.0.1 (2016-06-05)
+- Rearange textures for skinning
+
+2.0.0 (2016-06-04)
+- First public release

@@ -1,0 +1,15 @@
+
+1.0.3 (2016-07-03)
+- Recording in loop mode
+
+1.0.2.1 (2016-06-28)
+- Crashfix / Recordpath is now checked if exists on startup
+
+1.0.2 (2016-06-28)
+- Fixed init values after first start / install dependencies to dashcam-server
+
+1.0.1 (2016-06-24)
+- Rearcam mode added
+
+1.0.0 (2016-06-21)
+- First public release
