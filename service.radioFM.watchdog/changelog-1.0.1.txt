@@ -1,0 +1,6 @@
+
+1.0.1 (2016-07-04)
+- Add setting to resume radio after media has stopped
+
+1.0.0 (2016-06-29)
+- First public release
