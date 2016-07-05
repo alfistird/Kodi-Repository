@@ -1,0 +1,12 @@
+
+[B]1.0.4[/B] (2016-07-06)
+- Overlay in rearcam mode switchable
+
+[B]1.0.3[/B] (2016-07-03)
+- Recording in loop mode
+
+[B]1.0.2[/B] (2016-06-28)
+- Fixes / versionupdate to be same like pidashcam
+
+[B]0.0.1[/B] (2016-06-26)
+- First release
