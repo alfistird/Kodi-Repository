@@ -1,0 +1,6 @@
+
+[B]1.0.4[/B] (2016-07-12)
+- Cam icon only visisble when addon is installed
+
+[B]1.0.3[/B] (2016-07-03)
+- Updated textures for Pidash
