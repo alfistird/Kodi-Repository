@@ -84,7 +84,7 @@
 <addon id="plugin.program.pidash" name="RPi-Camera Dashcam" version="1.0.5" provider-name="Marc Hillesheim">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="service.pidash.server" version="1.0.4"/>
+        <import addon="service.pidash.server" version="1.0.5"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>executable</provides>
