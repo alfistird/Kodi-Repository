@@ -1,4 +1,7 @@
 
+[B]1.0.6[/B] (2016-07-20)
+- Bugfixes
+
 [B]1.0.5[/B] (2016-07-18)
 - Switch to udp communication
 
