@@ -1,4 +1,7 @@
 
+[B]1.0.7[/B] (2016-07-22)
+- Better Start / stop handling on updates
+
 [B]1.0.6[/B] (2016-07-20)
 - Bugfixes
 
