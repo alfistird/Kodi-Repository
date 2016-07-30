@@ -1,4 +1,10 @@
 
+[B]1.1.0[/B] (2016-07-28)
+- Merge program and service to one addon
+
+[B]1.0.7[/B] (2016-07-27)
+- Add option for event saving in loop mode
+
 [B]1.0.6[/B] (2016-07-20)
 - Bugfixes
 

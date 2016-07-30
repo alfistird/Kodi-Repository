@@ -37,21 +37,6 @@
   </extension>
 </addon>
 
-<addon id="service.pidash.server" name="PiDash-Server" version="1.0.7" provider-name="Marc Hillesheim">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-    </requires>
-    <extension point="xbmc.service" library="service.py" start="start"/>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <summary lang="en">PiDash-Server for Pi-Dashcam</summary>
-        <description lang="en">PiDash-Server for Pi-Dashcam</description>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <forum>www.raspicarprojekte.de/showthread.php?tid=861</forum>
-        <email>hawkeyexp@gmail.com</email>
-    </extension>
-</addon>
-
 <addon id="repository.hawkeyexp" name="Hawkeyexp's Add-ons" version="1.0.2" provider-name="Marc Hillesheim">
     <extension point="xbmc.addon.repository" name="Hawkeyexp's Add-ons">
 		<info compressed="true">https://raw.githubusercontent.com/hawkeyexp/Kodi-Repository/master/addons.xml</info>
@@ -81,14 +66,14 @@
     </extension>
 </addon>
 
-<addon id="plugin.program.pidash" name="RPi-Camera Dashcam" version="1.0.6" provider-name="Marc Hillesheim">
+<addon id="plugin.program.pidash" name="RPi-Camera Dashcam" version="1.1.0" provider-name="Marc Hillesheim">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="service.pidash.server" version="1.0.6"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>executable</provides>
     </extension>
+    <extension point="xbmc.service" library="service.py" start="start"/>
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <summary lang="en">RPI-Camera Dashcam plugin</summary>
