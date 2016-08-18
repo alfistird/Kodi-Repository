@@ -1,4 +1,7 @@
 
+[B]1.1.1[/B] (2016-08-18)
+- Bugfix version check / hflip on rearcam mode
+
 [B]1.1.0[/B] (2016-07-28)
 - Merge program and service to one addon
 
