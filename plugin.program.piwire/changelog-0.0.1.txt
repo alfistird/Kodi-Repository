@@ -1,3 +1,0 @@
-
-[B]0.0.1[/B] (2016-08-29)
-- First public release
