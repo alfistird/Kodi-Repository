@@ -17,7 +17,7 @@
     </extension>
 </addon>
 
-<addon id="skin.carpc-hawktouch" version="1.0.7" name="CarPC-Hawktouch" provider-name="Marc Hillesheim">
+<addon id="skin.carpc-hawktouch" version="1.0.8" name="CarPC-Hawktouch" provider-name="Marc Hillesheim">
   <requires>
     <import addon="xbmc.gui" version="5.10.0"/>
   </requires>
@@ -49,6 +49,24 @@
 		<description>Repository of add-ons by Hawkeyexp.</description>
 		<platform>all</platform>
 	</extension>
+</addon>
+
+<addon id="plugin.program.piwire" name="1-Wire Dashboard" version="0.0.1" provider-name="Marc Hillesheim">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="start"/>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">RPI-Camera Dashcam plugin</summary>
+        <description lang="en">RPI-Camera Dashcam plugin for the Raspberry Pi Camera Module</description>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum>www.raspicarprojekte.de/showthread.php/tid=861</forum>
+        <email>hawkeyexp@gmail.com</email>
+    </extension>
 </addon>
 
 <addon id="service.radioFM.watchdog" name="Helper for FM Radio Nexgen" version="1.0.3" provider-name="Marc Hillesheim">
