@@ -1,4 +1,7 @@
 
+[B]0.0.3[/B] (2016-08-30)
+- Warning on failed read of sensor
+
 [B]0.0.2[/B] (2016-08-29)
 - Temp trend added
 
