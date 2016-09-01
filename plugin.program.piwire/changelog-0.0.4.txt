@@ -1,4 +1,7 @@
 
+[B]0.0.4[/B] (2016-09-01)
+- Extended sensor monitoring / free sensor mapping
+
 [B]0.0.3[/B] (2016-08-30)
 - Warning on failed read of sensor
 
