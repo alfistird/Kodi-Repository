@@ -1,0 +1,30 @@
+
+[B]2.0.9[/B] (2016-09-16)
+- Cleanup / sync
+
+[B]2.0.8[/B] (2016-09-14)
+- Prepare for new carpc-controller
+
+[B]2.0.7[/B] (2016-08-04)
+- Prepare for new carpc-controller
+
+[B]2.0.6[/B] (2016-07-18)
+- Fix internal logic with stationlists
+
+[B]2.0.5[/B] (2016-06-18)
+- Station logos now possible. Changed layout to release it
+
+[B]2.0.4[/B] (2016-06-11)
+- Bugixes with station cleanup / update logo / code cleanup
+
+[B]2.0.3[/B] (2016-06-10)
+- Add settings page / stations now stored in settings.xml / station names are editable via settings page / custom background selectable
+
+[B]2.0.2[/B] (2016-06-08)
+- Add mute option for volume
+
+[B]2.0.1[/B] (2016-06-05)
+- Rearange textures for skinning
+
+[B]2.0.0[/B] (2016-06-04)
+- First public release
