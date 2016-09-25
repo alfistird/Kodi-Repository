@@ -1,0 +1,27 @@
+
+[B]0.0.9[/B] (2016-09-25)
+- ask for really delete entry / more failsave gui
+
+[B]0.0.8[/B] (2016-09-25)
+- fix while loop (scan counter) / optimize setup dialog
+
+[B]0.0.7[/B] (2016-09-25)
+- rework apmode gui - optimize hostapd.conf
+
+[B]0.0.6[/B] (2016-09-24)
+- Bugfix auto scan / ssid and password now configurable in settings
+
+[B]0.0.5[/B] (2016-09-23)
+- Rework package install
+
+[B]0.0.4[/B] (2016-09-22)
+- Include ap mode
+
+[B]0.0.3[/B] (2016-09-20)
+- Check for system support / extended messages in gui
+
+[B]0.0.2[/B] (2016-09-19)
+- fixes and interface check
+
+[B]0.0.1[/B] (2016-09-19)
+- First release
