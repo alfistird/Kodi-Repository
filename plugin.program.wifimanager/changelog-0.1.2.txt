@@ -1,4 +1,7 @@
 
+[B]0.1.2[/B] (2016-09-28)
+- updated dialog / fix typo / modify install command
+
 [B]0.1.1[/B] (2016-09-27)
 - support for some realtek-chips in access point mode with custom hostapd binary
 
