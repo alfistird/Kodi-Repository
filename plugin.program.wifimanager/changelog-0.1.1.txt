@@ -1,4 +1,10 @@
 
+[B]0.1.1[/B] (2016-09-27)
+- support for some realtek-chips in access point mode with custom hostapd binary
+
+[B]0.1.0[/B] (2016-09-27)
+- restart option for dnsmasq and hostapd / optional check for rpi3 / better switching
+
 [B]0.0.9[/B] (2016-09-25)
 - ask for really delete entry / more failsave gui
 
