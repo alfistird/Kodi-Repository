@@ -1,4 +1,7 @@
 
+[B]0.0.5[/B] (2016-10-09)
+- support nav keys / bugfix startup
+
 [B]0.0.4[/B] (2016-09-01)
 - Extended sensor monitoring / free sensor mapping
 

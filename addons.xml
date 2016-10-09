@@ -69,7 +69,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.program.piwire" name="1-Wire Dashboard" version="0.0.4" provider-name="Marc Hillesheim">
+<addon id="plugin.program.piwire" name="1-Wire Dashboard" version="0.0.5" provider-name="Marc Hillesheim">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
     </requires>
@@ -78,7 +78,7 @@
     </extension>
     <extension point="xbmc.service" library="service.py" start="start"/>
     <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
+        <platform>linux</platform>
         <summary lang="en">1-Wire Dashboard plugin</summary>
         <description lang="en">1-Wire Dashboard plugin for the Raspberry Pi</description>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
