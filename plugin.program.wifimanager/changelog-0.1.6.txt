@@ -1,4 +1,7 @@
 
+[B]0.1.6[/B] (2016-10-xx)
+- optimize hostapd.conf to support more sticks / Bugfix AP-Mode
+
 [B]0.1.5[/B] (2016-10-08)
 - support nav keys / up & down for wlan0
 
