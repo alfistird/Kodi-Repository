@@ -1,5 +1,8 @@
 
-[B]0.1.6[/B] (2016-10-xx)
+[B]0.1.7[/B] (2016-10-17)
+- Optimize switch to wifi mode after autostart ap mode / Typo fix
+
+[B]0.1.6[/B] (2016-10-13)
 - optimize hostapd.conf to support more sticks / Bugfix AP-Mode
 
 [B]0.1.5[/B] (2016-10-08)
