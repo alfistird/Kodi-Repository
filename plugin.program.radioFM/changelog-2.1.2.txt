@@ -1,4 +1,13 @@
 
+[B]2.1.2[/B] (2016-10-23)
+- Logo mask / texture rework / check for old helper addon / optimize xtouch-skin
+
+[B]2.1.1[/B] (2016-10-20)
+- soft fade logo / update radio.frequency on station load / rearange settings
+
+[B]2.1.0[/B] (2016-10-15)
+- Internal rework
+
 [B]2.0.9[/B] (2016-09-16)
 - Cleanup / sync
 
