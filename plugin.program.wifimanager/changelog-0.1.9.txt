@@ -1,4 +1,7 @@
 
+[B]0.1.9[/B] (2016-11-04)
+- Bugfix if up/down
+
 [B]0.1.8[/B] (2016-10-21)
 - Texture update
 
